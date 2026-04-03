@@ -1,0 +1,4158 @@
+[
+  {
+    "week": 1,
+    "title": "Week 1: Fundamentals of Play",
+    "days": [
+      {
+        "id": "w1d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Understand game theory and core mechanics.",
+        "resources": [
+          {
+            "id": "w1d1-r0",
+            "name": "Coursera: Intro to Game Design",
+            "url": "https://www.coursera.org/learn/game-design"
+          },
+          {
+            "id": "w1d1-r1",
+            "name": "GDC: 20 Years of Game Design",
+            "url": "https://www.youtube.com/watch?v=F0AET7aG2y8"
+          },
+          {
+            "id": "w1d1-r2",
+            "name": "Article: What is a Game?",
+            "url": "https://en.wikipedia.org/wiki/Game_design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w1d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Understand game theory and core mechanics.",
+        "resources": [
+          {
+            "id": "w1d2-r0",
+            "name": "Coursera: Intro to Game Design",
+            "url": "https://www.coursera.org/learn/game-design"
+          },
+          {
+            "id": "w1d2-r1",
+            "name": "GDC: 20 Years of Game Design",
+            "url": "https://www.youtube.com/watch?v=F0AET7aG2y8"
+          },
+          {
+            "id": "w1d2-r2",
+            "name": "Article: What is a Game?",
+            "url": "https://en.wikipedia.org/wiki/Game_design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w1d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Understand game theory and core mechanics.",
+        "resources": [
+          {
+            "id": "w1d3-r0",
+            "name": "Coursera: Intro to Game Design",
+            "url": "https://www.coursera.org/learn/game-design"
+          },
+          {
+            "id": "w1d3-r1",
+            "name": "GDC: 20 Years of Game Design",
+            "url": "https://www.youtube.com/watch?v=F0AET7aG2y8"
+          },
+          {
+            "id": "w1d3-r2",
+            "name": "Article: What is a Game?",
+            "url": "https://en.wikipedia.org/wiki/Game_design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w1d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Understand game theory and core mechanics.",
+        "resources": [
+          {
+            "id": "w1d4-r0",
+            "name": "Coursera: Intro to Game Design",
+            "url": "https://www.coursera.org/learn/game-design"
+          },
+          {
+            "id": "w1d4-r1",
+            "name": "GDC: 20 Years of Game Design",
+            "url": "https://www.youtube.com/watch?v=F0AET7aG2y8"
+          },
+          {
+            "id": "w1d4-r2",
+            "name": "Article: What is a Game?",
+            "url": "https://en.wikipedia.org/wiki/Game_design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w1d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Understand game theory and core mechanics.",
+        "resources": [
+          {
+            "id": "w1d5-r0",
+            "name": "Coursera: Intro to Game Design",
+            "url": "https://www.coursera.org/learn/game-design"
+          },
+          {
+            "id": "w1d5-r1",
+            "name": "GDC: 20 Years of Game Design",
+            "url": "https://www.youtube.com/watch?v=F0AET7aG2y8"
+          },
+          {
+            "id": "w1d5-r2",
+            "name": "Article: What is a Game?",
+            "url": "https://en.wikipedia.org/wiki/Game_design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w1d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Understand game theory and core mechanics.",
+        "resources": [
+          {
+            "id": "w1d6-r0",
+            "name": "Coursera: Intro to Game Design",
+            "url": "https://www.coursera.org/learn/game-design"
+          },
+          {
+            "id": "w1d6-r1",
+            "name": "GDC: 20 Years of Game Design",
+            "url": "https://www.youtube.com/watch?v=F0AET7aG2y8"
+          },
+          {
+            "id": "w1d6-r2",
+            "name": "Article: What is a Game?",
+            "url": "https://en.wikipedia.org/wiki/Game_design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w1d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "title": "Week 2: Fundamentals of Play",
+    "days": [
+      {
+        "id": "w2d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Understand game theory and core mechanics.",
+        "resources": [
+          {
+            "id": "w2d1-r0",
+            "name": "Coursera: Intro to Game Design",
+            "url": "https://www.coursera.org/learn/game-design"
+          },
+          {
+            "id": "w2d1-r1",
+            "name": "GDC: 20 Years of Game Design",
+            "url": "https://www.youtube.com/watch?v=F0AET7aG2y8"
+          },
+          {
+            "id": "w2d1-r2",
+            "name": "Article: What is a Game?",
+            "url": "https://en.wikipedia.org/wiki/Game_design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w2d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Understand game theory and core mechanics.",
+        "resources": [
+          {
+            "id": "w2d2-r0",
+            "name": "Coursera: Intro to Game Design",
+            "url": "https://www.coursera.org/learn/game-design"
+          },
+          {
+            "id": "w2d2-r1",
+            "name": "GDC: 20 Years of Game Design",
+            "url": "https://www.youtube.com/watch?v=F0AET7aG2y8"
+          },
+          {
+            "id": "w2d2-r2",
+            "name": "Article: What is a Game?",
+            "url": "https://en.wikipedia.org/wiki/Game_design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w2d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Understand game theory and core mechanics.",
+        "resources": [
+          {
+            "id": "w2d3-r0",
+            "name": "Coursera: Intro to Game Design",
+            "url": "https://www.coursera.org/learn/game-design"
+          },
+          {
+            "id": "w2d3-r1",
+            "name": "GDC: 20 Years of Game Design",
+            "url": "https://www.youtube.com/watch?v=F0AET7aG2y8"
+          },
+          {
+            "id": "w2d3-r2",
+            "name": "Article: What is a Game?",
+            "url": "https://en.wikipedia.org/wiki/Game_design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w2d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Understand game theory and core mechanics.",
+        "resources": [
+          {
+            "id": "w2d4-r0",
+            "name": "Coursera: Intro to Game Design",
+            "url": "https://www.coursera.org/learn/game-design"
+          },
+          {
+            "id": "w2d4-r1",
+            "name": "GDC: 20 Years of Game Design",
+            "url": "https://www.youtube.com/watch?v=F0AET7aG2y8"
+          },
+          {
+            "id": "w2d4-r2",
+            "name": "Article: What is a Game?",
+            "url": "https://en.wikipedia.org/wiki/Game_design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w2d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Understand game theory and core mechanics.",
+        "resources": [
+          {
+            "id": "w2d5-r0",
+            "name": "Coursera: Intro to Game Design",
+            "url": "https://www.coursera.org/learn/game-design"
+          },
+          {
+            "id": "w2d5-r1",
+            "name": "GDC: 20 Years of Game Design",
+            "url": "https://www.youtube.com/watch?v=F0AET7aG2y8"
+          },
+          {
+            "id": "w2d5-r2",
+            "name": "Article: What is a Game?",
+            "url": "https://en.wikipedia.org/wiki/Game_design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w2d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Understand game theory and core mechanics.",
+        "resources": [
+          {
+            "id": "w2d6-r0",
+            "name": "Coursera: Intro to Game Design",
+            "url": "https://www.coursera.org/learn/game-design"
+          },
+          {
+            "id": "w2d6-r1",
+            "name": "GDC: 20 Years of Game Design",
+            "url": "https://www.youtube.com/watch?v=F0AET7aG2y8"
+          },
+          {
+            "id": "w2d6-r2",
+            "name": "Article: What is a Game?",
+            "url": "https://en.wikipedia.org/wiki/Game_design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w2d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 3,
+    "title": "Week 3: Systems Thinking",
+    "days": [
+      {
+        "id": "w3d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Dive into non-digital mechanics, balancing, and probability.",
+        "resources": [
+          {
+            "id": "w3d1-r0",
+            "name": "GDC: Balancing Games",
+            "url": "https://www.youtube.com/watch?v=WXQtoEq8pEU"
+          },
+          {
+            "id": "w3d1-r1",
+            "name": "Designing Game Systems",
+            "url": "https://gamedesignconcepts.wordpress.com/2009/07/20/level-3-formal-elements-of-games/"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w3d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Dive into non-digital mechanics, balancing, and probability.",
+        "resources": [
+          {
+            "id": "w3d2-r0",
+            "name": "GDC: Balancing Games",
+            "url": "https://www.youtube.com/watch?v=WXQtoEq8pEU"
+          },
+          {
+            "id": "w3d2-r1",
+            "name": "Designing Game Systems",
+            "url": "https://gamedesignconcepts.wordpress.com/2009/07/20/level-3-formal-elements-of-games/"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w3d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Dive into non-digital mechanics, balancing, and probability.",
+        "resources": [
+          {
+            "id": "w3d3-r0",
+            "name": "GDC: Balancing Games",
+            "url": "https://www.youtube.com/watch?v=WXQtoEq8pEU"
+          },
+          {
+            "id": "w3d3-r1",
+            "name": "Designing Game Systems",
+            "url": "https://gamedesignconcepts.wordpress.com/2009/07/20/level-3-formal-elements-of-games/"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w3d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Dive into non-digital mechanics, balancing, and probability.",
+        "resources": [
+          {
+            "id": "w3d4-r0",
+            "name": "GDC: Balancing Games",
+            "url": "https://www.youtube.com/watch?v=WXQtoEq8pEU"
+          },
+          {
+            "id": "w3d4-r1",
+            "name": "Designing Game Systems",
+            "url": "https://gamedesignconcepts.wordpress.com/2009/07/20/level-3-formal-elements-of-games/"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w3d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Dive into non-digital mechanics, balancing, and probability.",
+        "resources": [
+          {
+            "id": "w3d5-r0",
+            "name": "GDC: Balancing Games",
+            "url": "https://www.youtube.com/watch?v=WXQtoEq8pEU"
+          },
+          {
+            "id": "w3d5-r1",
+            "name": "Designing Game Systems",
+            "url": "https://gamedesignconcepts.wordpress.com/2009/07/20/level-3-formal-elements-of-games/"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w3d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Dive into non-digital mechanics, balancing, and probability.",
+        "resources": [
+          {
+            "id": "w3d6-r0",
+            "name": "GDC: Balancing Games",
+            "url": "https://www.youtube.com/watch?v=WXQtoEq8pEU"
+          },
+          {
+            "id": "w3d6-r1",
+            "name": "Designing Game Systems",
+            "url": "https://gamedesignconcepts.wordpress.com/2009/07/20/level-3-formal-elements-of-games/"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w3d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 4,
+    "title": "Week 4: Systems Thinking",
+    "days": [
+      {
+        "id": "w4d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Dive into non-digital mechanics, balancing, and probability.",
+        "resources": [
+          {
+            "id": "w4d1-r0",
+            "name": "GDC: Balancing Games",
+            "url": "https://www.youtube.com/watch?v=WXQtoEq8pEU"
+          },
+          {
+            "id": "w4d1-r1",
+            "name": "Designing Game Systems",
+            "url": "https://gamedesignconcepts.wordpress.com/2009/07/20/level-3-formal-elements-of-games/"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w4d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Dive into non-digital mechanics, balancing, and probability.",
+        "resources": [
+          {
+            "id": "w4d2-r0",
+            "name": "GDC: Balancing Games",
+            "url": "https://www.youtube.com/watch?v=WXQtoEq8pEU"
+          },
+          {
+            "id": "w4d2-r1",
+            "name": "Designing Game Systems",
+            "url": "https://gamedesignconcepts.wordpress.com/2009/07/20/level-3-formal-elements-of-games/"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w4d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Dive into non-digital mechanics, balancing, and probability.",
+        "resources": [
+          {
+            "id": "w4d3-r0",
+            "name": "GDC: Balancing Games",
+            "url": "https://www.youtube.com/watch?v=WXQtoEq8pEU"
+          },
+          {
+            "id": "w4d3-r1",
+            "name": "Designing Game Systems",
+            "url": "https://gamedesignconcepts.wordpress.com/2009/07/20/level-3-formal-elements-of-games/"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w4d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Dive into non-digital mechanics, balancing, and probability.",
+        "resources": [
+          {
+            "id": "w4d4-r0",
+            "name": "GDC: Balancing Games",
+            "url": "https://www.youtube.com/watch?v=WXQtoEq8pEU"
+          },
+          {
+            "id": "w4d4-r1",
+            "name": "Designing Game Systems",
+            "url": "https://gamedesignconcepts.wordpress.com/2009/07/20/level-3-formal-elements-of-games/"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w4d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Dive into non-digital mechanics, balancing, and probability.",
+        "resources": [
+          {
+            "id": "w4d5-r0",
+            "name": "GDC: Balancing Games",
+            "url": "https://www.youtube.com/watch?v=WXQtoEq8pEU"
+          },
+          {
+            "id": "w4d5-r1",
+            "name": "Designing Game Systems",
+            "url": "https://gamedesignconcepts.wordpress.com/2009/07/20/level-3-formal-elements-of-games/"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w4d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Dive into non-digital mechanics, balancing, and probability.",
+        "resources": [
+          {
+            "id": "w4d6-r0",
+            "name": "GDC: Balancing Games",
+            "url": "https://www.youtube.com/watch?v=WXQtoEq8pEU"
+          },
+          {
+            "id": "w4d6-r1",
+            "name": "Designing Game Systems",
+            "url": "https://gamedesignconcepts.wordpress.com/2009/07/20/level-3-formal-elements-of-games/"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w4d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 5,
+    "title": "Week 5: Iterative Prototyping",
+    "days": [
+      {
+        "id": "w5d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w5d1-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w5d1-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w5d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w5d2-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w5d2-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w5d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w5d3-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w5d3-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w5d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w5d4-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w5d4-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w5d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w5d5-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w5d5-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w5d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w5d6-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w5d6-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w5d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 6,
+    "title": "Week 6: Iterative Prototyping",
+    "days": [
+      {
+        "id": "w6d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w6d1-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w6d1-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w6d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w6d2-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w6d2-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w6d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w6d3-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w6d3-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w6d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w6d4-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w6d4-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w6d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w6d5-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w6d5-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w6d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w6d6-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w6d6-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w6d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "title": "Week 7: Iterative Prototyping",
+    "days": [
+      {
+        "id": "w7d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w7d1-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w7d1-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w7d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w7d2-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w7d2-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w7d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w7d3-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w7d3-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w7d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w7d4-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w7d4-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w7d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w7d5-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w7d5-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w7d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w7d6-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w7d6-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w7d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "title": "Week 8: Iterative Prototyping",
+    "days": [
+      {
+        "id": "w8d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w8d1-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w8d1-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w8d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w8d2-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w8d2-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w8d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w8d3-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w8d3-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w8d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w8d4-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w8d4-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w8d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w8d5-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w8d5-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w8d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Design board games and playtest rules.",
+        "resources": [
+          {
+            "id": "w8d6-r0",
+            "name": "Extra Credits: Fail Faster",
+            "url": "https://www.youtube.com/watch?v=rDjrOaoHz9s"
+          },
+          {
+            "id": "w8d6-r1",
+            "name": "Paper Prototyping Basics",
+            "url": "https://www.gamedeveloper.com/design/paper-prototyping"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w8d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "title": "Week 9: Intro to Game Engines",
+    "days": [
+      {
+        "id": "w9d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w9d1-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w9d1-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w9d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w9d2-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w9d2-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w9d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w9d3-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w9d3-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w9d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w9d4-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w9d4-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w9d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w9d5-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w9d5-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w9d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w9d6-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w9d6-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w9d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "title": "Week 10: Intro to Game Engines",
+    "days": [
+      {
+        "id": "w10d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w10d1-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w10d1-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w10d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w10d2-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w10d2-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w10d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w10d3-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w10d3-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w10d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w10d4-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w10d4-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w10d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w10d5-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w10d5-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w10d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w10d6-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w10d6-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w10d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "title": "Week 11: Intro to Game Engines",
+    "days": [
+      {
+        "id": "w11d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w11d1-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w11d1-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w11d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w11d2-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w11d2-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w11d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w11d3-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w11d3-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w11d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w11d4-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w11d4-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w11d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w11d5-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w11d5-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w11d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w11d6-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w11d6-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w11d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "title": "Week 12: Intro to Game Engines",
+    "days": [
+      {
+        "id": "w12d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w12d1-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w12d1-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w12d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w12d2-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w12d2-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w12d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w12d3-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w12d3-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w12d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w12d4-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w12d4-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w12d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w12d5-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w12d5-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w12d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Choose Unity or Unreal. Learn the interface and basic scripting.",
+        "resources": [
+          {
+            "id": "w12d6-r0",
+            "name": "Unity Learn Basics",
+            "url": "https://learn.unity.com/pathway/unity-essentials"
+          },
+          {
+            "id": "w12d6-r1",
+            "name": "Unreal Engine For Beginners",
+            "url": "https://dev.epicgames.com/community/learning/paths/0Z/unreal-engine-kickstart-for-developers"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w12d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 13,
+    "title": "Week 13: Gameplay Mechanics & Level Design",
+    "days": [
+      {
+        "id": "w13d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w13d1-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w13d1-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w13d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w13d2-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w13d2-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w13d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w13d3-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w13d3-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w13d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w13d4-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w13d4-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w13d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w13d5-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w13d5-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w13d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w13d6-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w13d6-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w13d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 14,
+    "title": "Week 14: Gameplay Mechanics & Level Design",
+    "days": [
+      {
+        "id": "w14d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w14d1-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w14d1-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w14d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w14d2-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w14d2-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w14d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w14d3-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w14d3-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w14d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w14d4-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w14d4-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w14d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w14d5-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w14d5-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w14d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w14d6-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w14d6-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w14d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 15,
+    "title": "Week 15: Gameplay Mechanics & Level Design",
+    "days": [
+      {
+        "id": "w15d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w15d1-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w15d1-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w15d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w15d2-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w15d2-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w15d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w15d3-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w15d3-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w15d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w15d4-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w15d4-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w15d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w15d5-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w15d5-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w15d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w15d6-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w15d6-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w15d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 16,
+    "title": "Week 16: Gameplay Mechanics & Level Design",
+    "days": [
+      {
+        "id": "w16d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w16d1-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w16d1-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w16d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w16d2-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w16d2-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w16d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w16d3-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w16d3-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w16d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w16d4-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w16d4-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w16d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w16d5-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w16d5-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w16d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Implement movement, combat, and greybox level flow.",
+        "resources": [
+          {
+            "id": "w16d6-r0",
+            "name": "GMTK: Level Design Principles",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          },
+          {
+            "id": "w16d6-r1",
+            "name": "GDC: 10 Principles of Good Level Design",
+            "url": "https://www.youtube.com/watch?v=iNEe3Vyd64M"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w16d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 17,
+    "title": "Week 17: UX/UI and Game Feel",
+    "days": [
+      {
+        "id": "w17d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w17d1-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w17d1-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w17d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w17d2-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w17d2-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w17d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w17d3-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w17d3-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w17d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w17d4-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w17d4-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w17d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w17d5-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w17d5-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w17d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w17d6-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w17d6-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w17d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 18,
+    "title": "Week 18: UX/UI and Game Feel",
+    "days": [
+      {
+        "id": "w18d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w18d1-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w18d1-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w18d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w18d2-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w18d2-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w18d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w18d3-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w18d3-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w18d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w18d4-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w18d4-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w18d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w18d5-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w18d5-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w18d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w18d6-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w18d6-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w18d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 19,
+    "title": "Week 19: UX/UI and Game Feel",
+    "days": [
+      {
+        "id": "w19d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w19d1-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w19d1-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w19d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w19d2-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w19d2-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w19d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w19d3-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w19d3-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w19d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w19d4-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w19d4-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w19d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w19d5-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w19d5-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w19d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w19d6-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w19d6-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w19d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 20,
+    "title": "Week 20: UX/UI and Game Feel",
+    "days": [
+      {
+        "id": "w20d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w20d1-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w20d1-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w20d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w20d2-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w20d2-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w20d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w20d3-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w20d3-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w20d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w20d4-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w20d4-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w20d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w20d5-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w20d5-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w20d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Communicate info to player. HUDs, menus, and camera responsiveness.",
+        "resources": [
+          {
+            "id": "w20d6-r0",
+            "name": "GMTK: Game Feel Intro",
+            "url": "https://www.youtube.com/watch?v=pmCG0hZKa1k"
+          },
+          {
+            "id": "w20d6-r1",
+            "name": "Article: Best Practices in Game UI",
+            "url": "https://www.gamedeveloper.com/design/game-ui-discoveries"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w20d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 21,
+    "title": "Week 21: Specialization Focus",
+    "days": [
+      {
+        "id": "w21d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w21d1-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w21d1-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w21d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w21d2-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w21d2-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w21d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w21d3-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w21d3-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w21d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w21d4-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w21d4-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w21d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w21d5-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w21d5-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w21d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w21d6-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w21d6-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w21d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 22,
+    "title": "Week 22: Specialization Focus",
+    "days": [
+      {
+        "id": "w22d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w22d1-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w22d1-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w22d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w22d2-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w22d2-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w22d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w22d3-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w22d3-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w22d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w22d4-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w22d4-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w22d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w22d5-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w22d5-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w22d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w22d6-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w22d6-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w22d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 23,
+    "title": "Week 23: Specialization Focus",
+    "days": [
+      {
+        "id": "w23d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w23d1-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w23d1-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w23d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w23d2-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w23d2-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w23d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w23d3-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w23d3-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w23d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w23d4-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w23d4-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w23d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w23d5-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w23d5-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w23d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w23d6-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w23d6-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w23d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 24,
+    "title": "Week 24: Specialization Focus",
+    "days": [
+      {
+        "id": "w24d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w24d1-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w24d1-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w24d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w24d2-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w24d2-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w24d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w24d3-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w24d3-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w24d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w24d4-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w24d4-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w24d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w24d5-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w24d5-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w24d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Focus on narrative, system economy, or technical art.",
+        "resources": [
+          {
+            "id": "w24d6-r0",
+            "name": "GDC: Narrative Design Panel",
+            "url": "https://www.youtube.com/watch?v=GjEYQeEq63w"
+          },
+          {
+            "id": "w24d6-r1",
+            "name": "Advanced System Design",
+            "url": "https://www.google.com/search?q=game+economy+design"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w24d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 25,
+    "title": "Week 25: Production Pipeline",
+    "days": [
+      {
+        "id": "w25d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w25d1-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w25d1-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w25d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w25d2-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w25d2-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w25d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w25d3-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w25d3-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w25d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w25d4-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w25d4-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w25d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w25d5-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w25d5-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w25d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w25d6-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w25d6-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w25d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 26,
+    "title": "Week 26: Production Pipeline",
+    "days": [
+      {
+        "id": "w26d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w26d1-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w26d1-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w26d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w26d2-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w26d2-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w26d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w26d3-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w26d3-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w26d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w26d4-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w26d4-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w26d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w26d5-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w26d5-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w26d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w26d6-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w26d6-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w26d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 27,
+    "title": "Week 27: Production Pipeline",
+    "days": [
+      {
+        "id": "w27d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w27d1-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w27d1-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w27d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w27d2-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w27d2-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w27d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w27d3-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w27d3-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w27d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w27d4-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w27d4-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w27d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w27d5-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w27d5-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w27d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w27d6-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w27d6-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w27d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 28,
+    "title": "Week 28: Production Pipeline",
+    "days": [
+      {
+        "id": "w28d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w28d1-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w28d1-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w28d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w28d2-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w28d2-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w28d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w28d3-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w28d3-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w28d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w28d4-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w28d4-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w28d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w28d5-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w28d5-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w28d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Version control, GDD iteration, scoping.",
+        "resources": [
+          {
+            "id": "w28d6-r0",
+            "name": "Git for Game Devs",
+            "url": "https://github.com/github/gitignore/blob/main/Unity.gitignore"
+          },
+          {
+            "id": "w28d6-r1",
+            "name": "How to Scope a Game",
+            "url": "https://www.youtube.com/watch?v=qT-A1D8fKqQ"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w28d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 29,
+    "title": "Week 29: Capstone & Portfolio",
+    "days": [
+      {
+        "id": "w29d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w29d1-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w29d1-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w29d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w29d2-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w29d2-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w29d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w29d3-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w29d3-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w29d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w29d4-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w29d4-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w29d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w29d5-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w29d5-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w29d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w29d6-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w29d6-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w29d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 30,
+    "title": "Week 30: Capstone & Portfolio",
+    "days": [
+      {
+        "id": "w30d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w30d1-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w30d1-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w30d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w30d2-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w30d2-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w30d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w30d3-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w30d3-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w30d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w30d4-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w30d4-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w30d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w30d5-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w30d5-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w30d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w30d6-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w30d6-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w30d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 31,
+    "title": "Week 31: Capstone & Portfolio",
+    "days": [
+      {
+        "id": "w31d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w31d1-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w31d1-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w31d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w31d2-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w31d2-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w31d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w31d3-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w31d3-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w31d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w31d4-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w31d4-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w31d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w31d5-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w31d5-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w31d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w31d6-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w31d6-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w31d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  },
+  {
+    "week": 32,
+    "title": "Week 32: Capstone & Portfolio",
+    "days": [
+      {
+        "id": "w32d1",
+        "dayNo": 1,
+        "name": "Day 1 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w32d1-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w32d1-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w32d2",
+        "dayNo": 2,
+        "name": "Day 2 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w32d2-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w32d2-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w32d3",
+        "dayNo": 3,
+        "name": "Day 3 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w32d3-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w32d3-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w32d4",
+        "dayNo": 4,
+        "name": "Day 4 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w32d4-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w32d4-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w32d5",
+        "dayNo": 5,
+        "name": "Day 5 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w32d5-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w32d5-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w32d6",
+        "dayNo": 6,
+        "name": "Day 6 Tasks",
+        "description": "Build a polished demo and portfolio site.",
+        "resources": [
+          {
+            "id": "w32d6-r0",
+            "name": "GDC: How to Build Your Design Portfolio",
+            "url": "https://www.youtube.com/watch?v=7hRTY1T0c_g"
+          },
+          {
+            "id": "w32d6-r1",
+            "name": "itch.io Publishing Guide",
+            "url": "https://itch.io/docs/creators/getting-started"
+          }
+        ],
+        "isRestDay": false
+      },
+      {
+        "id": "w32d7",
+        "dayNo": 7,
+        "name": "Rest & Reflect",
+        "description": "Take a break! Rest your mind to avoid burnout.",
+        "resources": [],
+        "isRestDay": true
+      }
+    ]
+  }
+]
