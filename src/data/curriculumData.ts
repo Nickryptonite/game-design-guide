@@ -59,7 +59,7 @@ export const weeks: WeekData[] = [
     "phase": "foundation",
     "num": 1,
     "title": "Game design fundamentals",
-    "dates": "Apr 7 – Apr 13",
+    "dates": "Day 1 - Day 7",
     "type": "learn",
     "focus": "Start with the vocabulary. You cannot design what you cannot name.",
     "days": [
@@ -190,7 +190,7 @@ export const weeks: WeekData[] = [
     "phase": "foundation",
     "num": 2,
     "title": "Game design documentation",
-    "dates": "Apr 14 – Apr 20",
+    "dates": "Day 8 - Day 14",
     "type": "learn",
     "focus": "The skill most designers lack. A clean doc shows you can think, not just feel.",
     "days": [
@@ -295,7 +295,7 @@ export const weeks: WeekData[] = [
     "phase": "foundation",
     "num": 3,
     "title": "Unity basics — learn the engine",
-    "dates": "Apr 21 – Apr 27",
+    "dates": "Day 15 - Day 21",
     "type": "learn",
     "focus": "You need to prototype your own ideas. No one will build your prototypes for you.",
     "days": [
@@ -411,7 +411,7 @@ export const weeks: WeekData[] = [
     "phase": "foundation",
     "num": 4,
     "title": "Build your first tiny game",
-    "dates": "Apr 28 – May 4",
+    "dates": "Day 22 - Day 28",
     "type": "build",
     "focus": "First finished thing ever. Small and complete beats big and broken forever.",
     "days": [
@@ -516,7 +516,7 @@ export const weeks: WeekData[] = [
     "phase": "foundation",
     "num": 5,
     "title": "Break week + review",
-    "dates": "May 5 – May 11",
+    "dates": "Day 29 - Day 35",
     "type": "break",
     "focus": "Rest is not laziness. A tired mind makes worse design decisions.",
     "days": [
@@ -594,7 +594,7 @@ export const weeks: WeekData[] = [
     "phase": "prototype",
     "num": 6,
     "title": "Level design theory",
-    "dates": "May 12 – May 18",
+    "dates": "Day 36 - Day 42",
     "type": "learn",
     "focus": "Space tells stories. A good level guides without forcing.",
     "days": [
@@ -704,7 +704,7 @@ export const weeks: WeekData[] = [
     "phase": "prototype",
     "num": 7,
     "title": "Systems design basics",
-    "dates": "May 19 – May 25",
+    "dates": "Day 43 - Day 49",
     "type": "learn",
     "focus": "The most in-demand game design skill. Numbers, economies, progression loops.",
     "days": [
@@ -809,7 +809,7 @@ export const weeks: WeekData[] = [
     "phase": "prototype",
     "num": 8,
     "title": "Figma — UI/UX for games",
-    "dates": "May 26 – Jun 1",
+    "dates": "Day 50 - Day 56",
     "type": "learn",
     "focus": "Game designers who understand UI are significantly more hireable.",
     "days": [
@@ -914,7 +914,7 @@ export const weeks: WeekData[] = [
     "phase": "prototype",
     "num": 9,
     "title": "Narrative design basics",
-    "dates": "Jun 2 – Jun 8",
+    "dates": "Day 57 - Day 63",
     "type": "learn",
     "focus": "Story makes players care. Even non-story games need narrative thinking.",
     "days": [
@@ -1024,7 +1024,7 @@ export const weeks: WeekData[] = [
     "phase": "prototype",
     "num": 10,
     "title": "Break week + portfolio review",
-    "dates": "Jun 9 – Jun 15",
+    "dates": "Day 64 - Day 70",
     "type": "break",
     "focus": "You are 10 weeks in. Breathe. Assess. Fill the gaps.",
     "days": [
@@ -1096,7 +1096,7 @@ export const weeks: WeekData[] = [
     "phase": "jam",
     "num": 11,
     "title": "Game Jam #1 — first public game",
-    "dates": "Jun 16 – Jun 22",
+    "dates": "Day 71 - Day 77",
     "type": "build",
     "focus": "Small, finished, documented. Your first public proof that you can ship.",
     "days": [
@@ -1206,7 +1206,7 @@ export const weeks: WeekData[] = [
     "phase": "jam",
     "num": 12,
     "title": "Jam review + design deep dive",
-    "dates": "Jun 23 – Jun 29",
+    "dates": "Day 78 - Day 84",
     "type": "build",
     "focus": "Reading player feedback is a design skill. Take it seriously.",
     "days": [
@@ -1301,7 +1301,7 @@ export const weeks: WeekData[] = [
     "phase": "jam",
     "num": 13,
     "title": "Game Jam #2 — different genre",
-    "dates": "Jun 30 – Jul 6",
+    "dates": "Day 85 - Day 91",
     "type": "build",
     "focus": "Second jam. You are faster now. More intentional design.",
     "days": [
@@ -1401,7 +1401,7 @@ export const weeks: WeekData[] = [
     "phase": "jam",
     "num": 14,
     "title": "LinkedIn + community setup",
-    "dates": "Jul 7 – Jul 13",
+    "dates": "Day 92 - Day 98",
     "type": "portfolio",
     "focus": "Visibility is a skill. Start building your public presence now.",
     "days": [
@@ -1501,7 +1501,7 @@ export const weeks: WeekData[] = [
     "phase": "jam",
     "num": 15,
     "title": "Full break week — no work",
-    "dates": "Jul 14 – Jul 20",
+    "dates": "Day 99 - Day 105",
     "type": "break",
     "focus": "You are 15 weeks in. A full real rest. No guilt. You earned this.",
     "days": [
@@ -1556,7 +1556,7 @@ export const weeks: WeekData[] = [
     "phase": "deepen",
     "num": 16,
     "title": "Main project — concept phase",
-    "dates": "Jul 21 – Jul 27",
+    "dates": "Day 106 - Day 112",
     "type": "build",
     "focus": "Your biggest project starts. This becomes your portfolio centrepiece.",
     "days": [
@@ -1661,7 +1661,7 @@ export const weeks: WeekData[] = [
     "phase": "deepen",
     "num": 17,
     "title": "Main project — core loop build",
-    "dates": "Jul 28 – Aug 3",
+    "dates": "Day 113 - Day 119",
     "type": "build",
     "focus": "Build the core loop first. Everything else is secondary until this feels good.",
     "days": [
@@ -1750,7 +1750,7 @@ export const weeks: WeekData[] = [
     "phase": "deepen",
     "num": 18,
     "title": "Main project — systems build",
-    "dates": "Aug 4 – Aug 10",
+    "dates": "Day 120 - Day 126",
     "type": "build",
     "focus": "Add systems around the core. Document every design decision.",
     "days": [
@@ -1839,7 +1839,7 @@ export const weeks: WeekData[] = [
     "phase": "deepen",
     "num": 19,
     "title": "Game Jam #3 — mid-build sprint",
-    "dates": "Aug 11 – Aug 17",
+    "dates": "Day 127 - Day 133",
     "type": "build",
     "focus": "Third jam while building the main project. Different creative muscle.",
     "days": [
@@ -1928,7 +1928,7 @@ export const weeks: WeekData[] = [
     "phase": "deepen",
     "num": 20,
     "title": "Break week + GDC deep dive",
-    "dates": "Aug 18 – Aug 24",
+    "dates": "Day 134 - Day 140",
     "type": "break",
     "focus": "Fill your brain with the best design minds in the world. Rest and absorb.",
     "days": [
@@ -2028,7 +2028,7 @@ export const weeks: WeekData[] = [
     "phase": "portfolio",
     "num": 21,
     "title": "Main project — levels + content",
-    "dates": "Aug 25 – Aug 31",
+    "dates": "Day 141 - Day 147",
     "type": "build",
     "focus": "Build out the world. Teach mechanics progressively through level design.",
     "days": [
@@ -2128,7 +2128,7 @@ export const weeks: WeekData[] = [
     "phase": "portfolio",
     "num": 22,
     "title": "Main project — polish + audio",
-    "dates": "Sep 1 – Sep 7",
+    "dates": "Day 148 - Day 154",
     "type": "build",
     "focus": "Polish is what separates amateur from professional. It shows you care.",
     "days": [
@@ -2223,7 +2223,7 @@ export const weeks: WeekData[] = [
     "phase": "portfolio",
     "num": 23,
     "title": "Main project — launch on itch.io",
-    "dates": "Sep 8 – Sep 14",
+    "dates": "Day 155 - Day 161",
     "type": "portfolio",
     "focus": "Ship it. Public. With a page that makes people want to play it.",
     "days": [
@@ -2338,7 +2338,7 @@ export const weeks: WeekData[] = [
     "phase": "portfolio",
     "num": 24,
     "title": "Portfolio site build",
-    "dates": "Sep 15 – Sep 21",
+    "dates": "Day 162 - Day 168",
     "type": "portfolio",
     "focus": "Your front door to employers. Clear, clean, tells your story.",
     "days": [
@@ -2432,7 +2432,7 @@ export const weeks: WeekData[] = [
     "phase": "portfolio",
     "num": 25,
     "title": "Game Jam #4 + CV preparation",
-    "dates": "Sep 22 – Sep 28",
+    "dates": "Day 169 - Day 175",
     "type": "build",
     "focus": "Fourth jam and start preparing your actual application materials.",
     "days": [
@@ -2515,7 +2515,7 @@ export const weeks: WeekData[] = [
     "phase": "portfolio",
     "num": 26,
     "title": "Break week + final portfolio audit",
-    "dates": "Sep 29 – Oct 5",
+    "dates": "Day 176 - Day 182",
     "type": "break",
     "focus": "Last real break before application season. Use it fully.",
     "days": [
@@ -2598,7 +2598,7 @@ export const weeks: WeekData[] = [
     "phase": "apply",
     "num": 27,
     "title": "Research studios + first applications",
-    "dates": "Oct 6 – Oct 12",
+    "dates": "Day 183 - Day 189",
     "type": "apply",
     "focus": "Quality over quantity. Know the studio before you apply to them.",
     "days": [
@@ -2698,7 +2698,7 @@ export const weeks: WeekData[] = [
     "phase": "apply",
     "num": 28,
     "title": "Apply + keep building simultaneously",
-    "dates": "Oct 13 – Oct 19",
+    "dates": "Day 190 - Day 196",
     "type": "apply",
     "focus": "Never stop making things while applying. Keep your momentum.",
     "days": [
@@ -2787,7 +2787,7 @@ export const weeks: WeekData[] = [
     "phase": "apply",
     "num": 29,
     "title": "Interview preparation",
-    "dates": "Oct 20 – Oct 26",
+    "dates": "Day 197 - Day 203",
     "type": "apply",
     "focus": "Be ready when the call comes. Practice out loud — not just in your head.",
     "days": [
@@ -2887,7 +2887,7 @@ export const weeks: WeekData[] = [
     "phase": "apply",
     "num": 30,
     "title": "Apply + portfolio improvements",
-    "dates": "Oct 27 – Nov 2",
+    "dates": "Day 204 - Day 210",
     "type": "apply",
     "focus": "Keep applying. Improve based on real feedback you are receiving.",
     "days": [
@@ -2976,7 +2976,7 @@ export const weeks: WeekData[] = [
     "phase": "apply",
     "num": 31,
     "title": "Final application push",
-    "dates": "Nov 3 – Nov 9",
+    "dates": "Day 211 - Day 217",
     "type": "apply",
     "focus": "Last major week. Reach out directly to studios you love.",
     "days": [
@@ -3070,7 +3070,7 @@ export const weeks: WeekData[] = [
     "phase": "apply",
     "num": 32,
     "title": "December ready — final everything",
-    "dates": "Nov 10 – Nov 16",
+    "dates": "Day 218 - Day 224",
     "type": "apply",
     "focus": "You are ready. Polish everything. Apply with full confidence.",
     "days": [
